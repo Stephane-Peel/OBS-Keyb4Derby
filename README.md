@@ -40,6 +40,8 @@ The back cover of the Tally Light if a full TPU print.
 All the part are designed to be print with no support.
 
 # How to use
+**Please remember that OBS must be in Studio Mode for the Tally Client to work !!!**
+
 - Install OBS Websocket if needed.
 - The keyboard itself is plug and play, pressed key return F13 to F22
 - Find the COM port of your Arduino.
@@ -47,10 +49,10 @@ All the part are designed to be print with no support.
 
 - Start "OBSTallyClientbyZoe.exe"
 - Setup your password and name of the scene to be advertised with the Tally light.
-as i'am as already mentionned a bad noob with .NET code it will probably advertise you with an error code, but it still work (tested on three different computers).
+as i'd already mentionned, i'am a bad noob with .NET code it will probably advertise you with an error code, but it still work (tested on three different computers).
 - Select the COM port of your Arduino in the software and Voila !
 
-Please remember that OBS must be in Studio Mode for the Tally Client to work.
+
 
 
 
