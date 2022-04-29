@@ -1,0 +1,53 @@
+
+Part     Value          Device                          Package                  
+
+B1       ARDUINO_MCRO   ARDUINO_MCRO                    ARDUINO_MCRO             
+J1                      DCJ0303                         DCJ0303                  
+J2                      DCJ0303                         DCJ0303                  
+JP1                     JP2E                            JP2                      
+LED1                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED2                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED3                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED4                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED5                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED6                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED7                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED8                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED9                    LEDCHIPLED_0805                 CHIPLED_0805             
+LED10                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED11                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED12                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED13                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED14                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED15                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED16                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED17                   LEDCHIPLED_0805                 CHIPLED_0805             
+LED18                   LEDCHIPLED_0805                 CHIPLED_0805             
+Q2       2N3906         2N3906                          TO92                     
+R1       10K            R-EU_0204/5                     0204/5                   
+R2       10K            R-EU_0204/5                     0204/5                   
+R3       10K            R-EU_0204/5                     0204/5                   
+R4       10K            R-EU_0204/5                     0204/5                   
+R5       10K            R-EU_0204/5                     0204/5                   
+R6       10K            R-EU_0204/5                     0204/5                   
+R7       10K            R-EU_0204/5                     0204/5                   
+R8       10K            R-EU_0204/5                     0204/5                   
+R9       10K            R-EU_0204/5                     0204/5                   
+R10      10K            R-EU_0204/5                     0204/5                   
+R11      100            R-EU_0204/5                     0204/5                   
+R12      100            R-EU_0204/5                     0204/5                   
+R13      100            R-EU_0204/5                     0204/5                   
+R14      100            R-EU_0204/5                     0204/5                   
+R15      100            R-EU_0204/5                     0204/5                   
+R16      4.7K           R-EU_0204/5                     0204/5                   
+R17      47             R-EU_0204/5                     0204/5                   
+S1                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S2                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S3                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S4                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S5                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S6                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S7                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S8                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S9                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 
+S10                     MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM 

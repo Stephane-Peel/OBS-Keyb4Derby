@@ -1,0 +1,60 @@
+Partlist
+
+Exported from OBS-Keyb.sch at 29/04/2022 23:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device                          Package                  Library           Sheet
+
+B1       ARDUINO_MCRO   ARDUINO_UNO_R3                  ARDUINO_R3               SparkFun-Boards   1
+J1                      DCJ0303                         DCJ0303                  con-jack          1
+J2                      DCJ0303                         DCJ0303                  con-jack          1
+JP1                     JP2E                            JP2                      jumper            1
+LED1                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED2                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED3                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED4                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED5                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED6                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED7                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED8                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED9                    LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED10                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED11                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED12                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED13                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED14                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED15                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED16                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED17                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+LED18                   LEDCHIPLED_0805                 CHIPLED_0805             led               1
+Q2       2N3906         2N3906                          TO92                     transistor-pnp    1
+R1       10K            R-EU_0204/5                     0204/5                   resistor          1
+R2       10K            R-EU_0204/5                     0204/5                   resistor          1
+R3       10K            R-EU_0204/5                     0204/5                   resistor          1
+R4       10K            R-EU_0204/5                     0204/5                   resistor          1
+R5       10K            R-EU_0204/5                     0204/5                   resistor          1
+R6       10K            R-EU_0204/5                     0204/5                   resistor          1
+R7       10K            R-EU_0204/5                     0204/5                   resistor          1
+R8       10K            R-EU_0204/5                     0204/5                   resistor          1
+R9       10K            R-EU_0204/5                     0204/5                   resistor          1
+R10      10K            R-EU_0204/5                     0204/5                   resistor          1
+R11      100            R-EU_0204/5                     0204/5                   resistor          1
+R12      100            R-EU_0204/5                     0204/5                   resistor          1
+R13      100            R-EU_0204/5                     0204/5                   resistor          1
+R14      100            R-EU_0204/5                     0204/5                   resistor          1
+R15      100            R-EU_0204/5                     0204/5                   resistor          1
+R16      4.7K           R-EU_0204/5                     0204/5                   resistor          1
+R17      47             R-EU_0204/5                     0204/5                   resistor          1
+S1                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S2                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S3                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S4                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S5                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S6                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S7                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S8                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S9                      MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
+S10                     MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM SparkFun-Switches 1
