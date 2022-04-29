@@ -52,7 +52,7 @@ All the part are designed to be print with no support.
   -   config.xml
   -   obs-websocket-dotnet.dll
   -   websocket-sharp.dll
-- Setup your password and name of the scene to be advertised with the Tally light.
+- Setup your password and name of the scene to be advertised with the Tally light. (note : the config.xml can also be manually edited with a text editor) 
 as i'd already mentionned, i'am a bad noob with .NET code it will probably advertise you with an error code, but it still work (tested on three different computers).
 - Select the COM port of your Arduino in the software and Voila !
 
