@@ -47,7 +47,11 @@ All the part are designed to be print with no support.
 - Find the COM port of your Arduino.
 
 
-- Start "OBSTallyClientbyZoe.exe"
+- Start "OBSTallyClientbyZoe.exe" (the .exe need to be in a folder with all the files)
+  -   Newtonsoft.Json.dll
+  -   config.xml
+  -   obs-websocket-dotnet.dll
+  -   websocket-sharp.dll
 - Setup your password and name of the scene to be advertised with the Tally light.
 as i'd already mentionned, i'am a bad noob with .NET code it will probably advertise you with an error code, but it still work (tested on three different computers).
 - Select the COM port of your Arduino in the software and Voila !
